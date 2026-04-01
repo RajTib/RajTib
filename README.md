@@ -48,7 +48,7 @@ Right now, I’m deep in projects that actually *do something*:
 
 ### 🧠 Borderline (WIP)
 
-A long-term system I'm actively building — focused on [core idea].
+A long-term system I'm actively building — focused on turning the real world into a playground.
 
 - ⚙️ Currently working on: MVP
 - 🧪 Iterative development approach
