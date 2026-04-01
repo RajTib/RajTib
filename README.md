@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Raj%20Tibarewala&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 # 👋 Hey, I'm Raj
 
 ## 🧠 About Me
@@ -13,6 +15,24 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raj-tibarewala/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/_inked.at.dusk_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## ⚒️ What I'm Building
 
 Right now, I’m deep in projects that actually *do something*:
@@ -24,11 +44,41 @@ Right now, I’m deep in projects that actually *do something*:
 
 ---
 
+## 🚀 Flagship Project
+
+### 🧠 Borderline (WIP)
+
+A long-term system I'm actively building — focused on [core idea].
+
+- ⚙️ Currently working on: MVP
+- 🧪 Iterative development approach
+- 🎯 Goal: evolve into a full-scale application
+
+> Not just a project. A system in progress.
+
+---
+
 ## 🧰 Tech Stack
 
-### 💻 Languages
 
-`C++` `Python` `JavaScript`
+
+### 💻 Languages  
+`C` `C++` `C#` `Python` `JavaScript` `Java`
+
+### ⚙️ Frameworks & Tools  
+`React` `Node.js` `Flask` `FastAPI` `Streamlit` `Docker` 
+
+### 🧠 AI / ML  
+`NumPy` `Pandas` `Scikit-learn` `PyTorch` `TensorFlow` `TensorRT`  
+
+### 👁️ Computer Vision  
+`OpenCV`
+
+### 🔐 Cybersecurity  
+`SIEM` `Log Analysis` `Linux`  
+
+### 🔌 Systems  
+`Embedded Systems` `Jetson` `Raspberry Pi`  
 
 ### ⚙️ Domains
 
