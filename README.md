@@ -41,9 +41,9 @@ Right now, I’m deep in projects that actually *do something*:
 
 ## 📊 GitHub Stats
 
-![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RajTib\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=RajTib\&theme=tokyonight)
 
 ---
 
