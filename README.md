@@ -42,9 +42,9 @@ Right now, I’m deep in projects that actually *do something*:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajTib&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajtib&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=RajTib&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=RajTib&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
