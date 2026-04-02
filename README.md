@@ -10,7 +10,7 @@
 
 * 🧠 Curious about **systems, security, and how things break**
 * 🔐 Exploring **Cybersecurity + Ethical Hacking**
-* 💻 Learning by building — not just watching tutorials
+* 💻 Learning by building — not just watching tutorials 
 * 🎭 A little poetic, a little chaotic, but always evolving
 
 ---
