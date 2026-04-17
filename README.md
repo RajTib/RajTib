@@ -119,7 +119,7 @@ A long-term system I'm actively building — focused on turning the real world i
 If you're into:
 
 * building cool shit
-* hacking (ethically 😏)
+* hacking
 * or just vibing over tech + ideas
 
 then yeah… we’ll get along 🤝
