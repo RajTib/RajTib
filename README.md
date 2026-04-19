@@ -2,15 +2,12 @@
 
 # 👋 Hey, I'm Raj
 
-## 🧠 About Me
+## About Me
 
-🎓 2nd Year BTech CSE (Cyber Security) @ VIT Vellore
-⚙️ I build things that start as *“what if…”* and end as *“wait this actually works??”*
-🌌 Somewhere between logic and late-night overthinking
-
-* 🧠 Curious about **systems, security, and how things break**
-* 🔐 Exploring **Cybersecurity + Ethical Hacking**
-* 💻 Learning by building — not just watching tutorials 
+3rd Year BTech CSE (Cyber Security) @ VIT Vellore
+* Curious about **systems, security, and how things break**
+* Exploring **Cybersecurity + Ethical Hacking**
+* Learning by building — not just watching tutorials 
 
 ---
 
@@ -36,24 +33,22 @@
 
 Right now, I’m deep in projects that actually *do something*:
 
-* 🔥 **SnapScript** → Gesture-based file deletion system (yeah… chaotic good energy)
-* 🗡️ **Borderline** → Strava made competitive
-* 🤖 **Jarvis Dashboard** → Personal assistant controlling my digital life
-* 🧪 Random experiments that may or may not break my system
+* **SnapScript** → Gesture-based file deletion system (yeah… chaotic good energy)
+* **Borderline** → Strava made competitive
+* **Jarvis Dashboard** → Personal assistant controlling my digital life
+* Random experiments that may or may not break my system
 
 ---
 
 ## 🚀 Flagship Project
 
-### 🧠 Borderline (WIP)
+### Borderline (WIP)
 
 A long-term system I'm actively building — focused on turning the real world into a playground.
 
-- ⚙️ Currently working on: MVP
-- 🧪 Iterative development approach
-- 🎯 Goal: evolve into a full-scale application
-
-> Not just a project. A system in progress.
+- Currently working on: MVP
+- Iterative development approach
+- Goal: evolve into a full-scale application
 
 ---
 
@@ -100,16 +95,9 @@ A long-term system I'm actively building — focused on turning the real world i
 
 ## 🎯 Current Focus
 
-* 🧠 Building real-world projects (not tutorial clones)
-* 🔐 Getting deeper into cybersecurity
-* ⚡ Becoming someone who doesn’t just consume tech… but creates it
-
----
-
-## 🧩 Philosophy
-
-> Build. Break. Fix. Repeat.
-> Stay curious. Stay dangerous.
+* Building real-world projects
+* Getting deeper into cybersecurity
+* Becoming someone who doesn’t just consume tech… but creates it
 
 ---
 
