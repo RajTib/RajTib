@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Raj%20Tibarewala&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# 👋 Heyyy, I'm Raj
+# 👋 Hey, I'm Raj
 
 ## About Me
 
