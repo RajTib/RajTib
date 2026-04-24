@@ -54,8 +54,6 @@ A long-term system I'm actively building — focused on turning the real world i
 
 ## 🧰 Tech Stack
 
-
-
 ### 💻 Languages  
 `C` `C++` `C#` `Python` `JavaScript` `Java`
 
